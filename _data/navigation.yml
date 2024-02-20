@@ -1,0 +1,51 @@
+# main links links
+main:
+
+#  - title: "Home"
+#    url: /about/
+
+  - title: "News"
+    url: /year-archive/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "People"
+    url: /who/
+
+  - title: "Collaborators"
+    url: /collab/
+
+  - title: "Techniques"
+    url: /techs/
+      
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Funding"
+    url: /funding/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "> LAI lab"
+    url: https://labadhesioninflammation.org/
+
+
+
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
