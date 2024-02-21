@@ -11,22 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* HDR, Aix-Marseille Univ, 2023
+* PhD, Univ Limoges, 2005
+* MSc, Univ Lyon I, 2001
+  
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Since 2007: Associate Professor in Parasitology
+  * School of Pharmacy, Aix-Marseille Univ
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* 2006-2007: Postdoctorate @ CRECEP-Eau de Paris company
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+* 2006-2007: Postdoctorate @ CRECEP-Eau de Paris company
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 Skills
 ======
 * Skill 1
