@@ -17,35 +17,33 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-updated Oct. 27, 2023
+
 
 
 ## Peer-reviewed articles & reviews
 
 Surrogates of foodborne and waterborne parasites: a review. Augendre L., Costa D., Escotte-Binet S., Aubert D., Villena I., Dumètre A., La Carbona S. 
-Food and Waterborne Parasitology 2023, 33:e00212. doi.org/10.1016/j.fawpar.2023.e00212
+Food and Waterborne Parasitology 2023, 33:e00212. [link](doi.org/10.1016/j.fawpar.2023.e00212)
 
-Detection, fate, and transport of the biohazardous agent *Toxoplasma gondii* in soil water systems: influence of soil physicochemical properties, water chemistry, and surfactant. Kinsey E.N., Korte C., Gouasmia S., L’Ollivier C., Dubey J.P., Dumètre A., Darnault C.J.G. Environmental Microbiology Reports, 2023, 15:596-613. doi.org/10.1111/1758-2229.13204
+Detection, fate, and transport of the biohazardous agent *Toxoplasma gondii* in soil water systems: influence of soil physicochemical properties, water chemistry, and surfactant. Kinsey E.N., Korte C., Gouasmia S., L’Ollivier C., Dubey J.P., Dumètre A., Darnault C.J.G. Environmental Microbiology Reports, 2023, 15:596-613. [link](doi.org/10.1111/1758-2229.13204)
 
-Effect of household bleach on the structure of the sporocyst wall of *Toxoplasma gondii*. Dumètre A.*, Dubey J.P., Ferguson D.J.P. Parasite 2021 28:68. doi.org/10.1051/parasite/2021066
+Effect of household bleach on the structure of the sporocyst wall of *Toxoplasma gondii*. Dumètre A.*, Dubey J.P., Ferguson D.J.P. Parasite 2021 28:68. [link](doi.org/10.1051/parasite/2021066)
 
-Dynamics of *Toxoplasma gondii* oocyst phagocytosis by macrophages. Ndao O., Puech P.H., Bérard C., Limozin L., Rabhi S., Azas N., Dubey J.P., Dumètre A.* Frontiers in Cellular and Infection Microbiology 2020 10:207. doi.org/10.3389/fcimb.2020.00207
+Dynamics of *Toxoplasma gondii* oocyst phagocytosis by macrophages. Ndao O., Puech P.H., Bérard C., Limozin L., Rabhi S., Azas N., Dubey J.P., Dumètre A.* Frontiers in Cellular and Infection Microbiology 2020 10:207. [link](doi.org/10.3389/fcimb.2020.00207)
 
-Toxo XV: A congress at the birthplace of *Toxoplasma*. Gomez-Marin J., De La Torre A., Shapiro K., Dumètre A. Trends in Parasitology 2019, 35:851-854. doi:10.1016/j.pt.2019.07.016 
+Toxo XV: A congress at the birthplace of *Toxoplasma*. Gomez-Marin J., De La Torre A., Shapiro K., Dumètre A. Trends in Parasitology 2019, 35:851-854. [link](doi:10.1016/j.pt.2019.07.016) 
 
-*Toxoplasma gondii* oocyst infectivity assessed using a sporocyst-based cell culture assay combined with quantitative PCR for environmental applications. Rousseau A., Escotte-Binet S., La Carbona S., Chagneau S., Favennec L., Dumètre A., Kubina S., Dubey J.P., Majou D., Bigot-Clivot A., Villena I., Aubert D. Applied and Environmental Microbiology 2019, 85: e01189-19. doi:10.1128/AEM.01189-19 
+*Toxoplasma gondii* oocyst infectivity assessed using a sporocyst-based cell culture assay combined with quantitative PCR for environmental applications. Rousseau A., Escotte-Binet S., La Carbona S., Chagneau S., Favennec L., Dumètre A., Kubina S., Dubey J.P., Majou D., Bigot-Clivot A., Villena I., Aubert D. Applied and Environmental Microbiology 2019, 85: e01189-19. [link](doi:10.1128/AEM.01189-19) 
 
-Environmental transmission of *Toxoplasma gondii*: oocysts in water, soil and food. Shapiro K., Bahia Oliveira L., Dixon B., Dumètre A., De Wit L., Vanwormer E., Villena I. Food and Waterborne Parasitology 2019, 12:e00049. doi: 10.1016/j.fawpar.2019.e00049
+Environmental transmission of *Toxoplasma gondii*: oocysts in water, soil and food. Shapiro K., Bahia Oliveira L., Dixon B., Dumètre A., De Wit L., Vanwormer E., Villena I. Food and Waterborne Parasitology 2019, 12:e00049. [link](doi:10.1016/j.fawpar.2019.e00049)
 
-Evaluation of propidium monoazide-based qPCR to detect viable oocysts of *Toxoplasma gondii*. Rousseau A., Villena I., Dumètre A., Escotte-Binet S., Favennec L., Dubey J.P., Aubert D., La Carbona S. Parasitology Research 2019, 118:999-1010. doi:10.1007/s00436-019-06220-1 
+Evaluation of propidium monoazide-based qPCR to detect viable oocysts of *Toxoplasma gondii*. Rousseau A., Villena I., Dumètre A., Escotte-Binet S., Favennec L., Dubey J.P., Aubert D., La Carbona S. Parasitology Research 2019, 118:999-1010. [link](doi:10.1007/s00436-019-06220-1) 
 
-Structure, composition, and roles of the *Toxoplasma gondii* oocyst and sporocyst walls. Freppel W., Ferguson D.J.P., Shapiro K., Dubey J.P., Puech P.H., Dumètre A*. The Cell Surface 2019, 5:100016. doi.org/10.1016/j.tcsw.2018.100016 
+Structure, composition, and roles of the *Toxoplasma gondii* oocyst and sporocyst walls. Freppel W., Ferguson D.J.P., Shapiro K., Dubey J.P., Puech P.H., Dumètre A*. The Cell Surface 2019, 5:100016. [link](doi.org/10.1016/j.tcsw.2018.100016) 
 
-Assessing viability and infectivity of foodborne and waterborne stages (cysts/oocysts) of *Giardia duodenalis*, *Cryptosporidium* spp., and *Toxoplasma gondii*: a review of methods. Rousseau A., La Carbona S., Dumètre A., Robertson L.J., Gargala G., Escotte-Binet S., Favennec L., Villena I., Gérard C., Aubert D. Parasite 2018, 25:14. doi:10.1051/parasite/2018009 
+Assessing viability and infectivity of foodborne and waterborne stages (cysts/oocysts) of *Giardia duodenalis*, *Cryptosporidium* spp., and *Toxoplasma gondii*: a review of methods. Rousseau A., La Carbona S., Dumètre A., Robertson L.J., Gargala G., Escotte-Binet S., Favennec L., Villena I., Gérard C., Aubert D. Parasite 2018, 25:14. [link](doi:10.1051/parasite/2018009) 
 
-    12. Macrophages facilitate the excystation and differentiation of Toxoplasma gondii sporozoites into tachyzoites following oocyst internalisation
-Freppel W., Puech P.H., Ferguson D.J.P., Azas N., Dubey J.P., Dumètre A*. 
-Scientific Reports 2016, 6:33654. doi:10.1038/srep33654 
+Macrophages facilitate the excystation and differentiation of *Toxoplasma gondii* sporozoites into tachyzoites following oocyst internalisation. Freppel W., Puech P.H., Ferguson D.J.P., Azas N., Dubey J.P., Dumètre A*. Scientific Reports 2016, 6:33654. [link](doi:10.1038/srep33654) 
 
     13. Simultaneous detection of the protozoan parasites Toxoplasma, Cryptosporidium and Giardia in food matrices and their persistence on basil leaves
 Hohweyer J., Cazeaux C., Travaillé E., Languet E., Dumètre A., Aubert D., Terryn C., Dubey J.P., Azas N., Houssin M., Favennec L., Villena I., La Carbona S. 
