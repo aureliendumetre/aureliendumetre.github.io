@@ -7,9 +7,9 @@ author_profile: true
 ---
 
 
-- Name: Pierre-Henri Puech
-- Status: Inserm Researcher (CR1/CRCN)
-- Email: pierre-henri.puech (at) inserm.fr or (at) univ-amu.fr
+- Name: Aurélien Dumètre
+- Status: Associate Professor
+- Email: aurelien.dumetre(at)univ-amu.fr
 - Lab:  Adhesion and Inflammation Lab (LAI)
 - Institutions:  INSERM / CNRS / University “AMU”
 - Where:  Marseille, France
