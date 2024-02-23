@@ -11,16 +11,6 @@ redirect_from:
 
 How do parasites survive hostile environmental conditions? 
 
-Certain parasites such as coccidia can exist in soil, water, and food as a egg-like form called the oocyst, which typically ranges from 10 to 40 µm in size and harbours two sets of extracellular walls. We are exploring the roles of these walls as the key structures that determine the environmental transmission of these parasites to a wide range of host species living from polar to equatorial areas.
+Certain parasites such as coccidia can exist in soil, water, and food as a egg-like form called the oocyst, which typically ranges from 10 to 40 µm in size and harbours two sets of extracellular walls. By using quantitative imaging and biophysical approaches, we explore how these walls determine the environmental transmission of coccidian parasites to a wide range of host species living from polar to equatorial areas.
 
-Coccidian oocysts consist of two sets of extracellular walls that protect the infectious units (the sporozoites) from harsh environemental conditions. We try to understand how these walls  function by combining quantitative imaging and biophysical approaches to study how the walls of certain parasites help them to survive harsh environmental conditions to infect a myriad of mammals and birds worldwide. Our main models are Toxoplasma gondii and Eimeria spp.This simple question is still generating much experimental and theoretical work, at the border of physics, chemistry and biology, with strong implications in medicine. For that, we started the serie of seminar and conferences about immunbiophysics [link](https://immunobiophysics.org/). You can register for the seminars, they are online and free !!!
 
-The purpose of mechanobiology is to understand how biochemical and physical cues are turned into signals through mechanotransduction. 
-
-As part of the LAI lab in Marseille, France [link](https://labadhesioninflammation.org/), we (mainly) study lymphocytes and try to decipher (i) how mechanotransduction plays a major role in triggering signalling cascades following cell-neighbourhood interaction; (ii) the cell capacity to continually generate forces, and biomolecule properties to undergo conformational changes in response to piconewton forces, which provides a molecular basis for understanding mechanotransduction; and (iii) how mechanotransduction shapes the guidance cues retrieved by living cells and the information flow they generate. 
-
-For that, we focus on force-based biophysical techniques, combined with optical microscopies and quantitative measurements from all of them.
-
-We are also open to other fields, where immune cells and cancer cells are implicated, and for that we animate the French/Mexican IRP initiative BioPhysImmuno [link](https://biophysimmuno.wordpress.com/)
-
-(Adapted from the abstract of "Mechanotransduction as a major driver of cell behaviour: mechanisms, and relevance to cell organization and future research", Pierre-Henri Puech  & Pierre Bongrand, Open Biol. 2021 Nov;11(11):210256. doi: 10.1098/rsob.210256. [link](https://pubmed.ncbi.nlm.nih.gov/34753321/))
