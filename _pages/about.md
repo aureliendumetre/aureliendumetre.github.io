@@ -19,10 +19,10 @@ We also take advantage of these macromanipulation techniques and of the ability 
 
  
 Response of coccidian parasites to food and water decontamination treatments
-We study the response of coccidia to common household and industrial inactivation treatments including chlorination and ozone. We investigate the effects of such treatments on the structure, permeability, and mechanics of their walls, and in collaboration with parasitologists and 'omics' experts, we investigate whether treatments modify the oocyst transcriptome, proteome, and infectivity. To this aim, we contribute to develop alternative approaches to assess the infectivity of native vs. treated parasites by using cell culture coupled to qPCR and surrogate models. In particular, we aim at determining whether oocysts of the chicken *E. acervulina* and mouse *E. papillata*, which are produced more easily than *T. gondii* oocysts, can be used as non pathogenic surrogate models of T. gondii to assess the efficacy of physical and chemical decontamination treatments.
+
+We study the response of coccidia to common household and industrial inactivation treatments including chlorination and ozone. We investigate the effects of such treatments on the structure, permeability, and mechanics of their walls, and in collaboration with parasitologists and 'omics' experts, we explore whether treatments modify the oocyst transcriptome, proteome, and infectivity. To this purpose, we contribute to develop alternative approaches to assess the infectivity of native vs. treated parasites by using cell culture coupled to qPCR and surrogate models. In particular, we aim at determining whether oocysts of the chicken *E. acervulina* and mouse *E. papillata*, which are produced more easily than *T. gondii* oocysts, can be used as non pathogenic surrogate models of *T. gondii* to assess the efficacy of physical and chemical decontamination treatments.
 
 ​
-
 Coll. with Isabelle Villena & Loïc Favennec @ Reims & Rouen Univ, Stéphanie La Carbona @ Actalia Company, Jean-Michel Repérant @ANSES Ploufragan, Anne Silvestre @ INRAE Tours, Frédéric Ariey @ Cochin Instiute Paris, Christine Schaffer @Hubert Curien Institute Strasbourg, and David Ferguson @ Oxford Univ
 
 ​
