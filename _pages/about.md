@@ -15,7 +15,7 @@ We use quantitative imaging and biophysical approaches to study how coccidian pa
 Probing the structure, mechanics, and surface adhesion of the oocyst walls
 
 Coccidian parasites can exist in soils, waters, and foods as an egg-like form called the oocyst. It contains infectious parasites surrounded by multilayered walls. We study how the structure and mechanics of these walls help the parasites to survive harsh environmental conditions. To this aim, we develop or adapt single-cell force measurement techniques coupled to imaging, such as atomic force microscopy, optical tweezers, and micropipette aspiration techniques, to characterize (i) the mechanics of the walls submitted to various chemical and physical factors and the forces required for deforming or breaking them, and (ii) the nature and duration of adhesion forces at the wall surface, which seem to drive the retention or circulation of the oocysts throughout different environments. 
-We also take advantage of the ability of phagocytic cells such like macrophages and neutrophils to interact with oocysts to study, by using the same techniques described above, the adhesion and mechanical properties of the walls of oocysts at various steps of the phagocytosis process, from the initial adhesion of the parasite to the phagocyte membrane to the opening and digestion of the walls in phagolysosomes. This approa   
+We also take advantage of these macromanipulation techniques and of the ability of phagocytic cells such like macrophages to interact with oocysts to characterize the forces the phagocytes exert to adhere, fold, and open the oocyst walls. 
 
  
 Response of coccidian parasites to food and water decontamination treatments
