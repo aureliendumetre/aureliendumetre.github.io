@@ -19,12 +19,8 @@ Education
 Work experience
 ======
 * Since 2007: Associate Professor in Parasitology
-  * 
-
 * 2006-2007: Postdoctorate @ CRECEP-Eau de Paris company
-  * 
-
-* 2006-2007: Postdoctorate @ CRECEP-Eau de Paris company
+* 2004-2005: ATER in Biology & Microbiology - Univ Limoges
   * 
 Skills
 ======
