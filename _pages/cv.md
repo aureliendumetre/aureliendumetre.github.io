@@ -130,13 +130,3 @@ FEMS Microbiology Reviews 2003, 27:651-661. doi:10.1016/S0168-6445(03)00071-8
 ======
  
   
-Talks
-======
-
-Teaching
-======
-
-  
-Service and leadership
-======
-
